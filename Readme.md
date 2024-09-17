@@ -31,7 +31,7 @@ The following dependencies are required and are already included in the `pom.xml
 1. **Clone the repository** or download the project files.  
    **(Clone o repositório** ou baixe os arquivos do projeto.)
 
-2. **Navigate to the project directory** in your terminal or command prompt.  
+2. **Navigate to the project directory** in your terminal or command prompt. 
    **(Navegue até o diretório do projeto** no seu terminal ou prompt de comando.)
 
 3. **Build the project** using Maven:
@@ -43,13 +43,13 @@ The following dependencies are required and are already included in the `pom.xml
 This command will compile the code and download all the necessary dependencies.
 (Este comando irá compilar o código e baixar todas as dependências necessárias.)
 
-4. **Run the application using the following command:
-   **(Execute a aplicação usando o seguinte comando:)
+4. **Run the application** using the following command:
+   **(Execute a aplicação** usando o seguinte comando:)
 
    mvn spring-boot:run
 
-5. **Access the REST API:
-   **(Acesse a API REST):
+5. **Access the REST API:**
+   **(Acesse a API REST):**
 
 Once the application is running, you can access the Lenovo laptops data at:
 (Uma vez que a aplicação estiver em execução, você pode acessar os dados dos laptops Lenovo em:)
